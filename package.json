@@ -1,12 +1,12 @@
 {
-  "name": "hack App",
-  "homepage": "https://Ojas13-git.github.io/Ai-Planet-frontend-intern-Assignment",
+  "name": "hackapp",
+  "homepage": "https://Ojas13-git.github.io/Ai-Planet-frontend-intern-assignment",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build",
+   "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
